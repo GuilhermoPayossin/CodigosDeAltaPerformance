@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/CAP.iml" filepath="$PROJECT_DIR$/.idea/CAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/FilasEncadeadas/FilasEncadeadas.iml" filepath="$PROJECT_DIR$/FilasEncadeadas/FilasEncadeadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/FilasSequenciais/FilasSequenciais.iml" filepath="$PROJECT_DIR$/FilasSequenciais/FilasSequenciais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListasEncadeadasGenericas/ListasEmcadeadasGenericas.iml" filepath="$PROJECT_DIR$/ListasEncadeadasGenericas/ListasEmcadeadasGenericas.iml" />
     </modules>
   </component>
 </project>
